@@ -1,6 +1,6 @@
 # Talks
 
-List of all talks given by [Ashwanth Kumar](https://github.com/ashwanth) at various meetups and conferences.
+List of all talks given by [Ashwanth Kumar](https://github.com/ashwanthkumar) at various meetups and conferences.
 
 ## 2017
 - [Using Monoids for Large Scale Aggregates](https://speakerdeck.com/ashwanthkumar/using-monoids-for-large-scale-aggregates) - Co-Presented along with [@brewkode](https://github.com/brewkode) at [Scala.io](https://scala.io/talks.html#/#XZI-2391) 2017. 
@@ -12,8 +12,8 @@ List of all talks given by [Ashwanth Kumar](https://github.com/ashwanth) at vari
 - [Suuchi - Application Layer Sharding](https://speakerdeck.com/ashwanthkumar/suuchi-application-layer-sharding) - Presented at [ILUG-C (Chennai Linux User Group)](https://www.meetup.com/ILUG-C/events/233660958/) December 2016. [References](https://github.com/ashwanthkumar/suuchi-sharding-talk).
 - [Lessons from Building Distributed RocksDB](https://speakerdeck.com/ashwanthkumar/lessons-from-building-distributed-rocksdb) - Presented at [Geeknight Chennai](https://twchennai.github.io/geeknight/edition-37.html) November 2016. [Video](https://www.youtube.com/watch?v=PSCa9_Avne0) | [References](https://github.com/ashwanthkumar/distributed-rocksdb-talk).
 - [suuchi - distributed data systems toolkit](https://speakerdeck.com/ashwanthkumar/suuchi-distributed-data-systems-toolkit) - Presented at Chennai Docker / Go meetup. [References](https://github.com/ashwanthkumar/suuchi-talk).
-- [Lessons from managing hadoop clusters on aws @indix](https://speakerdeck.com/ashwanthkumar/lessons-from-managing-hadoop-clusters-on-aws-at-indix) - Presented at [DevopsDays India](http://devopsdaysindia.org/2016/index.html#speakers) November 2016. [Video](https://www.youtube.com/watch?v=eBbgylpRufQ)
-- [Learnings from running production infra on aws spot reliably](https://speakerdeck.com/ashwanthkumar/matsya-geeknight-april-2016) - Presented at [Geeknight](https://twchennai.github.io/geeknight/edition-30.html) April 2016. [Video](https://www.youtube.com/watch?v=qeBV9JRoTOA)
+- [Lessons from managing hadoop clusters on aws @indix](https://speakerdeck.com/ashwanthkumar/lessons-from-managing-hadoop-clusters-on-aws-at-indix) - Presented at [DevopsDays India](http://devopsdaysindia.org/2016/index.html#speakers) November 2016. [Video](https://www.youtube.com/watch?v=eBbgylpRufQ).
+- [Learnings from running production infra on aws spot reliably](https://speakerdeck.com/ashwanthkumar/matsya-geeknight-april-2016) - Presented at [Geeknight](https://twchennai.github.io/geeknight/edition-30.html) April 2016. [Video](https://www.youtube.com/watch?v=qeBV9JRoTOA).
 - [Matsya](https://speakerdeck.com/ashwanthkumar/matsya-apr-16) - Slide deck created for a flash talk at Rootconf 2016, but never got a chance to do it.
 - [Introduction to Matsya](https://speakerdeck.com/ashwanthkumar/introduction-to-matsya) - Presented at [Chennai Devops Meetup](https://www.meetup.com/ChennaiDevOps/events/227776005/) January 2016. Matsya is a process that helps you choose the lowest priced AZ for a machine type when running behind Auto Scaling Groups on AWS. We use Matsya @Indix to run our entire Hadoop fleet on Spot instances to save cost.
 
