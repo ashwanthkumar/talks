@@ -3,6 +3,7 @@
 List of all talks given by [Ashwanth Kumar](https://github.com/ashwanthkumar) at various meetups and conferences.
 
 ## 2017
+- [Lessons scaling operations to everyone @indix](https://speakerdeck.com/ashwanthkumar/lessons-scaling-operations-to-everyone-at-indix) - Presented at [Miniconf on Cloud Server Management (Chennai) 2017](https://rootconf.talkfunnel.com/cloud-server-management-miniconf-chennai-2017/7-lessons-scaling-operations-to-everyone-indix).
 - [Using Monoids for Large Scale Aggregates](https://speakerdeck.com/ashwanthkumar/using-monoids-for-large-scale-aggregates) - Co-Presented along with [@brewkode](https://github.com/brewkode) at [Scala.io](https://scala.io/talks.html#/#XZI-2391) 2017 held at Lyon, France. 
 - [Using Monoids for Business Metrics](https://speakerdeck.com/ashwanthkumar/using-monoids-for-business-metrics) - Presented at [Geeknight Chennai](https://twchennai.github.io/geeknight/edition-48.html) October 2017. [Video](https://www.youtube.com/watch?v=RJepu3sbmkU).
 - [Using Monoids for Large Scale Business Stats](https://speakerdeck.com/ashwanthkumar/using-monoids-for-large-scale-business-stats) - Presented at [HackersAvenue](https://www.meetup.com/preview/hackers-avenue/events/243739079) October 2017. [References](https://github.com/ashwanthkumar/large-scale-business-stats-talk).
