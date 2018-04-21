@@ -2,6 +2,9 @@
 
 List of all talks given by [Ashwanth Kumar](https://github.com/ashwanthkumar) at various meetups and conferences.
 
+## 2018
+- [Why we built a distributed system](https://speakerdeck.com/ashwanthkumar/why-we-built-a-distributed-system-dsconf-2018) - Co-Presented along with [@brewkode](https://github.com/brewkode) at [DSConf 2018](http://web.archive.org/web/20180421090902/https://dsconf.in/).
+
 ## 2017
 - [Lessons scaling operations to everyone @indix](https://speakerdeck.com/ashwanthkumar/lessons-scaling-operations-to-everyone-at-indix) - Presented at [Miniconf on Cloud Server Management (Chennai) 2017](https://rootconf.talkfunnel.com/cloud-server-management-miniconf-chennai-2017/7-lessons-scaling-operations-to-everyone-indix). [Video](https://www.youtube.com/watch?v=zUTz1eqwBkI).
 - [Using Monoids for Large Scale Aggregates](https://speakerdeck.com/ashwanthkumar/using-monoids-for-large-scale-aggregates) - Co-Presented along with [@brewkode](https://github.com/brewkode) at [Scala.io](https://scala.io/talks.html#/#XZI-2391) 2017 held at Lyon, France. [Video](https://www.youtube.com/watch?v=UW3Z_rIPn3w)
