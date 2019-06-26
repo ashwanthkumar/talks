@@ -3,7 +3,7 @@
 List of all talks given by [Ashwanth Kumar](https://github.com/ashwanthkumar) at various meetups and conferences.
 
 ## 2018
-- [Why we built a distributed system](https://speakerdeck.com/ashwanthkumar/why-we-built-a-distributed-system-dsconf-2018) - Co-Presented along with [@brewkode](https://github.com/brewkode) at [DSConf 2018](http://web.archive.org/web/20180421090902/https://dsconf.in/).
+- [Why we built a distributed system](https://speakerdeck.com/ashwanthkumar/why-we-built-a-distributed-system-dsconf-2018) - Co-Presented along with [@brewkode](https://github.com/brewkode) at [DSConf 2018](http://web.archive.org/web/20180421090902/https://dsconf.in/). [Video](https://www.youtube.com/watch?v=zSgxt9JsTPg&index=11&list=PLyMKpkdEV2csQg93bEPv2R27sawxIm9zG)
 
 ## 2017
 - [Lessons scaling operations to everyone @indix](https://speakerdeck.com/ashwanthkumar/lessons-scaling-operations-to-everyone-at-indix) - Presented at [Miniconf on Cloud Server Management (Chennai) 2017](https://rootconf.talkfunnel.com/cloud-server-management-miniconf-chennai-2017/7-lessons-scaling-operations-to-everyone-indix). [Video](https://www.youtube.com/watch?v=zUTz1eqwBkI).
